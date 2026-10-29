@@ -1,0 +1,532 @@
+{
+    "YouTube": [
+        {
+            "channelUrl": "https://www.youtube.com/@LindaHome68",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@JeffGeerling",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@guesswhopts",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@WildWonderfulOffGrid",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@beardfm",
+            "prefix": "UUSH"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@sigmasports",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@campingwithsteve",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@sidneyraz",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@HarryRunsUK",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@mck2",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@RJTheBikeGuy",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@Harry-Sweeny",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@CLIF",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@%E7%9D%BF%E7%9D%BF%E4%B8%8D%E8%8A%B1%E6%B9%96",
+            "prefix": "UUSH"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@shindo320",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@mottesen_runs",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@Lionel.Sanders",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@SamLongTriathlon",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@leotan42.195",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@Sahil_Bloom",
+            "prefix": "UUSH"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@aliabdaal",
+            "prefix": "UUSH"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@kurzgesagt",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@MarkRober",
+            "prefix": "UUSH"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@bigthink",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@TEDx",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@thepudding",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@johnnyharris",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@SELFPICK",
+            "prefix": "UULF"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@daaitvtalks",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@thedailytri",
+            "prefix": "UULP"
+        },
+        {
+            "channelUrl": "https://www.youtube.com/@lukesmithxyz",
+            "prefix": "UULF"
+        }
+    ],
+    "Reddit": [
+        [
+            "r/entrepreneur",
+            "r/EntrepreneurRideAlong",
+            "r/startups",
+            "r/smallbusiness",
+            "r/freelance",
+            "r/ycombinator"
+        ],
+        [
+            "r/bodyweightfitness",
+            "r/Exercise",
+            "r/fitness",
+            "r/workout",
+            "r/weightlifting",
+            "r/StrongerByScience"
+        ],
+        ["r/flexibility", "r/Stretching", "r/yoga"],
+        ["r/coldplunge", "r/Sauna"],
+        [
+            "r/AdvancedRunning",
+            "r/BarefootRunning",
+            "r/ultrarunning",
+            "r/trailrunning",
+            "r/running",
+            "r/Marathon_Training"
+        ],
+        ["r/fuckcars", "r/carfree", "r/bikecommuting", "r/hitchhiking"],
+        [
+            "r/todayilearned",
+            "r/youshouldknow",
+            "r/explainlikeimfive",
+            "r/selfeducation",
+            "r/LearnUselessTalents",
+            "r/funfacts"
+        ],
+        [
+            "r/AMA",
+            "r/NoStupidQuestions",
+            "r/TooAfraidToAsk",
+            "r/AskReddit",
+            "r/AskTheWorld",
+            "r/CasualConversation"
+        ],
+        [
+            "r/Health",
+            "r/selfcare",
+            "r/hygiene",
+            "r/SkincareAddiction",
+            "r/walking",
+            "r/sleep"
+        ],
+        [
+            "r/nutrition",
+            "r/HealthyFood",
+            "r/EatCheapAndHealthy",
+            "r/onepotmeals",
+            "r/AskCulinary",
+            "r/MealPrepSunday"
+        ],
+        [
+            "r/vegan",
+            "r/PlantBasedDiet",
+            "r/WholeFoodsPlantBased"
+        ],
+        [
+            "r/educationalgifs",
+            "r/physicsgifs",
+            "r/theydidthemath",
+            "r/CasualMath",
+            "r/engineeringporn",
+            "r/infographics",
+            "r/mapporn"
+        ],
+        [
+            "r/Design",
+            "r/designporn",
+            "r/graphic_design",
+            "r/Calligraphy"
+        ],
+        [
+            "r/CFD",
+            "r/Simulated",
+            "r/optimization",
+            "r/Aerodynamics",
+            "r/ComputerEngineering",
+            "r/MechanicalEngineering",
+            "r/AskEngineers"
+        ],
+        [
+            "r/AskScience",
+            "r/science",
+            "r/EverythingScience"
+        ],
+        [
+            "r/space",
+            "r/spacex",
+            "r/spaceporn"
+        ],
+        [
+            "r/GetStudying",
+            "r/study",
+            "r/StudyTips"
+        ],
+        [
+            "r/DIY",
+            "r/appliances",
+            "r/bikewrench",
+            "r/landscaping",
+            "r/Gardening"
+        ],
+        [
+            "r/SideProject",
+            "r/raspberry_pi",
+            "r/smarthome",
+            "r/homeautomation"
+        ],
+        [
+            "r/opensource",
+            "r/degoogle",
+            "r/privacy",
+            "r/DigitalPrivacy",
+            "r/PrivacyGuides"
+        ],
+        [
+            "r/photography",
+            "r/analog",
+            "r/FilmPhotography",
+            "r/photocritique",
+            "r/AskPhotography"
+        ],
+        [
+            "r/TheNightFeeling",
+            "r/FoggyPics",
+            "r/streetphotography",
+            "r/itookapicture"
+        ],
+        ["r/vscode", "r/ObsidianMD", "r/Strava"],
+        ["r/MacOS", "r/iphone", "r/ios", "r/shortcuts", "r/apple"],
+        [
+            "r/GarminFenix", 
+            "r/garminforerunner",
+            "r/garmin",
+            "r/GarminWatches"
+        ],
+        [
+            "r/GetMotivated",
+            "r/GetDisciplined",
+            "r/selfimprovement",
+            "r/selfhelp",
+            "r/Habits",
+            "r/DecidingToBeBetter",
+            "r/lifegoals"
+        ],
+        [
+            "r/truegrit",
+            "r/WorkForSmartLife",
+            "r/Productivitycafe",
+            "r/PetPeeves",
+            "r/programmerhumor",
+            "r/physicsmemes"
+        ],
+        [
+            "r/socialskills",
+            "r/communication",
+            "r/communicationskills",
+            "r/emotionalintelligence",
+            "r/Relationships",
+            "r/relationship_advice",
+            "r/dating_advice"
+        ],
+        [
+            "r/cscareerquestions",
+            "r/cscareerquestionsEU",
+            "r/experienceddevs",
+            "r/Frontend",
+            "r/Backend"
+        ],
+        [
+            "r/excel",
+            "r/ExcelTips",
+            "r/spreadsheets",
+            "r/googlesheets"
+        ],
+        [
+            "r/astrojs",
+            "r/web_design",
+            "r/webdesign",
+            "r/webdev"
+        ],
+        [
+            "r/coding",
+            "r/creativecoding",
+            "r/learnprogramming",
+            "r/programming"
+        ],
+        ["r/travel", "r/travelhacks", "r/solotravel", "r/longtermtravel"],
+        ["r/Europetravel", "r/flights", "r/digitalnomad", "r/vagabond"],
+        [
+            "r/adventures",
+            "r/backpacking",
+            "r/bikepacking",
+            "r/WildernessBackpacking",
+            "r/CampingandHiking",
+            "r/Hiking",
+            "r/Camping"
+        ],
+        [
+            "r/taiwan",
+            "r/germany",
+            "r/switzerland",
+            "r/finland",
+            "r/Netherlands"
+        ],
+        [
+            "r/languagelearning",
+            "r/Anki",
+            "r/language_exchange"
+        ],
+        ["r/SameGrassButGreener", "r/relocating"],
+        ["r/LifeProTips", "r/LifeHacks", "r/life", "r/LifeAdvice", "r/selfreliance"],
+        [
+            "r/careerguidance",
+            "r/retirement",
+            "r/adulting",
+            "r/Aging",
+            "r/AskOldPeople"
+        ],
+        [
+            "r/Parenting",
+            "r/daddit",
+            "r/childfree",
+            "r/regretfulparents",
+            "r/parentingfails"
+        ],
+        [
+            "r/mildlyinteresting",
+            "r/nextfuckinglevel",
+            "r/DamnThatsInteresting",
+            "r/interestingasfuck"
+        ],
+        [
+            "r/happy",
+            "r/cozy",
+            "r/mademesmile",
+            "r/wholesome",
+            "r/oddlysatisfying",
+            "r/BeAmazed"
+        ],
+        [
+            "r/financialindependence",
+            "r/fire",
+            "r/leanfire",
+            "r/personalfinance",
+            "r/MiddleClassFinance",
+            "r/Bogleheads",
+            "r/investing"
+        ],
+        [
+            "r/natureisfuckinglit",
+            "r/badassanimals",
+            "r/earthporn",
+            "r/MostBeautiful",
+            "r/travelphotos",
+            "r/mountains"
+        ],
+        [
+            "r/DeepThoughts",
+            "r/unpopularopinion",
+            "r/TrueUnpopularOpinion",
+            "r/SeriousConversation"
+        ],
+        [
+            "r/philosophy",
+            "r/AskPhilosophy",
+            "r/spirituality",
+            "r/Existentialism"
+        ],
+        [
+            "r/psychology",
+            "r/askpsychology",
+            "r/PsychologyTalk",
+            "r/AcademicPsychology",
+            "r/psychologystudents",
+            "r/psychologyresearch"
+        ],
+        [
+            "r/neuroscience",
+            "r/neuro",
+            "r/neurology",
+            "r/neurophilosophy",
+            "r/AskNeuroscience"
+        ],
+        [
+            "r/mentalhealth",
+            "r/mentalillness",
+            "r/happiness",
+            "r/Anxiety",
+            "r/depression",
+            "r/therapy",
+            "r/selflove"
+        ],
+        [
+            "r/meditation",
+            "r/mindfulness",
+            "r/meditationpractice"
+        ],
+        [
+            "r/zen",
+            "r/stoicism",
+            "r/taoism",
+            "r/Buddhism"
+        ],
+        ["r/writing", "r/writingadvice", "r/Journaling", "r/Zettelkasten", "r/PKMS"],
+        [
+            "r/SpeakBetter",
+            "r/PublicSpeaking"
+        ],
+        ["r/books", "r/suggestmeabook", "r/booksuggestions", "r/BettermentBookClub", "r/Longreads"],
+        ["r/bookshelf", "r/HomeLibraries"],
+        ["r/ControlProblem", "r/singularity", "r/AGI", "r/Futurology"],
+        ["r/LocalLLaMA", "r/artificial", "r/ArtificialInteligence", "r/ChatGPTPromptGenius"],
+        ["r/rarehistoricalphotos", "r/thewaywewere"],
+        ["r/OffGrid", "r/Survival", "r/preppers", "r/CabinPorn", "r/homestead"],
+        [
+            "r/InteriorDesign",
+            "r/ExteriorDesign",
+            "r/CozyPlaces",
+            "r/homedesign",
+            "r/HomeMaintenance",
+            "r/HomeImprovement",
+            "r/homeowners"
+        ],
+        [
+            "r/digitalminimalism",
+            "r/BackOffline"
+        ],
+        [
+            "r/minimalism",
+            "r/simpleliving",
+            "r/LivingAlone",
+            "r/underconsumption",
+            "r/Anticonsumption",
+            "r/frugal"
+        ],
+        ["r/Environmentalism", "r/sustainability", "r/Green"],
+        ["r/declutter", "r/organization"]
+    ],
+    "Spotify": {
+        "❤️ Favorites": {
+            "Favorites": "https://open.spotify.com/playlist/2QW9omZ0wi01cdD0C8WVyQ"
+        },
+        "👨🏼‍🎤 Artists": {
+            "Kevin Kern": "https://open.spotify.com/artist/0I8nAaq5bLnTm3aEvr8rIB",
+            "U2 - Songs of Innocence": "https://open.spotify.com/album/7DY6v8qiyQcsTCqUWjH7pS",
+            "Hans Zimmer": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        "🧘‍♀️ Meditation": {
+            "Zen Garden": "https://open.spotify.com/playlist/37i9dQZF1DX4Oe8zprVH3z",
+            "Tibetan Bowls": "https://open.spotify.com/playlist/37i9dQZF1DX3JNwc30ddaO",
+            "Flute Meditation": "https://open.spotify.com/playlist/37i9dQZF1DXcj8Mdu8qUVH",
+            "Peaceful Meditation": "https://open.spotify.com/playlist/37i9dQZF1DWZqd5JICZI0u",
+            "Walking Meditation": "https://open.spotify.com/playlist/5ABxmZnFkSOqKr1Jt05KVz",
+            "Yoga Meditation": "https://open.spotify.com/playlist/37i9dQZF1DX9uKNf5jGX6m"
+        },
+        "🌿 Natural Soundtracks": {
+            "Forest Bathing": "https://open.spotify.com/playlist/37i9dQZF1DXaPleDxjpDoo",
+            "Nature Relaxation": "https://open.spotify.com/playlist/37i9dQZF1DX2DjEOgyULQF",
+            "Nature Noise": "https://open.spotify.com/playlist/37i9dQZF1DWUKPeBypcpcP",
+            "Sounds of the Ocean": "https://open.spotify.com/playlist/37i9dQZF1DWV90ZWj21ygB",
+            "Nature Sounds": "https://open.spotify.com/playlist/37i9dQZF1DX4PP3DA4J0N8",
+            "Green Noise": "https://open.spotify.com/playlist/37i9dQZF1DWZ8HCIPoGGKp",
+            "Dreamy Forest Music": "https://open.spotify.com/playlist/37i9dQZF1DXdzGIPNRTvyN"
+        },
+        "🎸 Instruments": {
+            "Calming Acoustic": "https://open.spotify.com/playlist/37i9dQZF1DXaImRpG7HXqp",
+            "Peaceful Piano": "https://open.spotify.com/playlist/37i9dQZF1DX4sWSpwq3LiO",
+            "Yo-Yo Ma": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk",
+            "Peaceful Guitar": "https://open.spotify.com/playlist/37i9dQZF1DX0jgyAiPl8Af"
+        },
+        "🎻 Classic": {
+            "Ludwig van Beethoven": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS",
+            "Johann Sebastian Bach": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408",
+            "Frédéric Chopin": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4",
+            "Mozart: Sonata for 2 Pianos - K. 448": "https://open.spotify.com/album/5BGxdrMPI75W0fbDK8AhmL",
+            "Claude Debussy": "https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP",
+            "Franz Schubert": "https://open.spotify.com/artist/2p0UyoPfYfI76PCStuXfOP",
+            "Antonio Vivaldi": "https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR"
+        },
+        "🚀 Booster": {
+            "Dinner with Friends": "https://open.spotify.com/playlist/37i9dQZF1DX4xuWVBs4FgJ",
+            "Morning Motivation": "https://open.spotify.com/playlist/37i9dQZF1DXc5e2bJhV6pu",
+            "Your Favorite Coffeehouse": "https://open.spotify.com/playlist/37i9dQZF1DX6ziVCJnEm59"
+        },
+        "😌 Solitude": {
+            "Fresh Start": "https://open.spotify.com/album/5JMIw7f71dsF4IefH1R4EZ",
+            "Calming Classical": "https://open.spotify.com/playlist/37i9dQZF1DWVFeEut75IAL",
+            "HSP Music": "https://open.spotify.com/playlist/04P7K29vfACA82BqbzlXJ3",
+            "Marconi Union - Weightless": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H",
+            "Downshift": "https://open.spotify.com/playlist/37i9dQZF1DX3JNwc30ddaO",
+            "Lo-fi Beats": "https://open.spotify.com/playlist/71d99pLh0TpbdIJESHAsDN",
+            "Chill With Anjuna": "https://open.spotify.com/playlist/4LIb2PKCU2q36oMfA4eNHl"
+        }
+    }
+}
