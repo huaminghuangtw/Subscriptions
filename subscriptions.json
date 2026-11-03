@@ -473,7 +473,7 @@
         ["r/Environmentalism", "r/sustainability", "r/Green"],
         ["r/declutter", "r/organization"]
     ],
-    "Spotify": {
+    "Spotify Playlists": {
         "🩶 My Favorites": {
             "🩶 My Favorites": "https://open.spotify.com/playlist/2QW9omZ0wi01cdD0C8WVyQ"
         },
@@ -528,5 +528,83 @@
             "Lo-fi Beats": "https://open.spotify.com/playlist/71d99pLh0TpbdIJESHAsDN",
             "Chill With Anjuna": "https://open.spotify.com/playlist/4LIb2PKCU2q36oMfA4eNHl"
         }
+    },
+    "Newsletters": {
+        "Sahil Bloom": "https://sahilbloom.com/newsletter",
+        "James Clear": "https://jamesclear.com/3-2-1"
+    },
+    "Podcasts": {
+        "中文": [
+            {
+                "name": "怪獸訓練電台",
+                "rss": "https://feed.firstory.me/rss/user/ckv3k4uh47dxk0800qmnxh0eo"
+            },
+            {
+                "name": "電扶梯走左邊 with Jacky",
+                "rss": "https://anchor.fm/s/4369cce0/podcast/rss"
+            },
+            {
+                "name": "只能喝酒的圖書館",
+                "rss": "https://feeds.soundon.fm/podcasts/367f6c07-a586-45f3-8b5e-2f47b0aa4449.xml"
+            },
+            {
+                "name": "獨角獸的靈感圖書館",
+                "rss": "https://feed.firstory.me/rss/user/cm5kt2k0905pn01w42p4hfljk"
+            },
+            {
+                "name": "馬力歐陪你喝一杯",
+                "rss": "https://www.omnycontent.com/d/playlist/a4cc0a4a-642d-45d7-ac5d-ac5600c620b0/1d06778d-ee1a-4d81-882e-ac9a00368a17/b7a04983-22ba-406b-b1c4-ac9a00368a25/podcast.rss"
+            },
+            {
+                "name": "博音",
+                "rss": "https://feed.firstory.me/rss/user/ckyjmnkp0166d0830od1kznfj"
+            },
+            {
+                "name": "張修修的不正常人類研究所",
+                "rss": "https://anchor.fm/s/f2016268/podcast/rss"
+            },
+            {
+                "name": "科班普通生",
+                "rss": "https://feed.firstory.me/rss/user/cm88685k501fw01y791d862m6"
+            },
+            {
+                "name": "鐵人 DNA",
+                "rss": "https://feeds.soundon.fm/podcasts/c19abc95-ef54-4daf-a0e5-bba2f4d4e822.xml"
+            },  
+            {
+                "name": "鐵腿",
+                "rss": "https://feeds.soundon.fm/podcasts/02a04565-356f-4250-a86e-e096002d6e1b.xml"
+            },
+            {
+                "name": "運動人的 Pain Cave",
+                "rss": "https://feeds.soundon.fm/podcasts/d4b00dee-c184-4148-8adc-e3533157b632.xml"
+            },
+            {
+                "name": "創業之聲",
+                "rss": "https://anchor.fm/s/fd7da1ec/podcast/rss"
+            },
+            {
+                "name": "Startup Island TAIWAN Podcast",
+                "rss": "https://feed.firstory.me/rss/user/cl8jubp5t01v601sl4vys57dj"
+            }
+        ],
+        "English": [
+            {
+                "name": "The Knowledge Project",
+                "rss": "https://feeds.megaphone.fm/FSMI7575968096"
+            },
+            {
+                "name": "Naval",
+                "rss": "https://naval.libsyn.com/rss"
+            },
+            {
+                "name": "David Senra",
+                "rss": "https://feeds.megaphone.fm/david-senra"
+            },
+            {
+                "name": "Founders",
+                "rss": "https://feeds.megaphone.fm/DSLLC6297708582"
+            }
+        ]
     }
 }
