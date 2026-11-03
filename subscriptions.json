@@ -1,5 +1,5 @@
 {
-    "YouTube": [
+    "YouTube Channels": [
         {
             "channelUrl": "https://www.youtube.com/@LindaHome68",
             "prefix": "UULF"
@@ -125,7 +125,7 @@
             "prefix": "UULF"
         }
     ],
-    "Reddit": [
+    "Subreddits": [
         [
             "r/entrepreneur",
             "r/EntrepreneurRideAlong",
