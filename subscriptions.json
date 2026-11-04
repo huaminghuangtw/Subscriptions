@@ -582,10 +582,6 @@
             {
                 "name": "創業之聲",
                 "rss": "https://anchor.fm/s/fd7da1ec/podcast/rss"
-            },
-            {
-                "name": "Startup Island TAIWAN Podcast",
-                "rss": "https://feed.firstory.me/rss/user/cl8jubp5t01v601sl4vys57dj"
             }
         ],
         "English": [
@@ -604,6 +600,10 @@
             {
                 "name": "Founders",
                 "rss": "https://feeds.megaphone.fm/DSLLC6297708582"
+            },
+            {
+                "name": "Startup Island TAIWAN",
+                "rss": "https://feed.firstory.me/rss/user/cl8jubp5t01v601sl4vys57dj"
             }
         ]
     }
