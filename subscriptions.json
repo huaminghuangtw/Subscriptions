@@ -1,148 +1,43 @@
 {
     "YouTube Channels": {
         "中文": [
-            {
-                "channelUrl": "https://www.youtube.com/@guesswhopts",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@SELFPICK",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@CLIF",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@%E7%9D%BF%E7%9D%BF%E4%B8%8D%E8%8A%B1%E6%B9%96",
-                "prefix": "UUSH"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@shindo320",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@leotan42.195",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@coachjerry",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@denzelyu",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@daaitvtalks",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@TheDoDoMen",
-                "prefix": "UULP"
-            }
+            "@guesswhopts",
+            "@SELFPICK",
+            "@CLIF",
+            "@%E7%9D%BF%E7%9D%BF%E4%B8%8D%E8%8A%B1%E6%B9%96",
+            "@shindo320",
+            "@leotan42.195",
+            "@coachjerry",
+            "@denzelyu",
+            "@daaitvtalks",
+            "@TheDoDoMen"
         ],
         "English": [
-            {
-                "channelUrl": "https://www.youtube.com/@LindaHome68",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@sidneyraz",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@JeffGeerling",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@WildWonderfulOffGrid",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@beardfm",
-                "prefix": "UUSH"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@sigmasports",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@mck2",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@campingwithsteve",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@RJTheBikeGuy",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@Harry-Sweeny",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@mottesen_runs",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@HarryRunsUK",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@ortaluis",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@Lionel.Sanders",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@SamLongTriathlon",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@thedailytri",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@Sahil_Bloom",
-                "prefix": "UUSH"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@aliabdaal",
-                "prefix": "UUSH"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@kurzgesagt",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@MarkRober",
-                "prefix": "UUSH"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@bigthink",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@TEDx",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@thepudding",
-                "prefix": "UULP"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@johnnyharris",
-                "prefix": "UULF"
-            },
-            {
-                "channelUrl": "https://www.youtube.com/@lukesmithxyz",
-                "prefix": "UULF"
-            }
+            "@LindaHome68",
+            "@sidneyraz",
+            "@JeffGeerling",
+            "@WildWonderfulOffGrid",
+            "@beardfm",
+            "@sigmasports",
+            "@mck2",
+            "@campingwithsteve",
+            "@RJTheBikeGuy",
+            "@Harry-Sweeny",
+            "@mottesen_runs",
+            "@HarryRunsUK",
+            "@ortaluis",
+            "@Lionel.Sanders",
+            "@SamLongTriathlon",
+            "@thedailytri",
+            "@Sahil_Bloom",
+            "@aliabdaal",
+            "@kurzgesagt",
+            "@MarkRober",
+            "@bigthink",
+            "@TEDx",
+            "@thepudding",
+            "@johnnyharris",
+            "@lukesmithxyz"
         ]
     },
     "Subreddits": [
